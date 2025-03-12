@@ -1,6 +1,6 @@
 <?php
 // Datos de conexión
-$servername = "34.172.232.243"; // IP del servidor MySQL en GCP
+$servername = "34.59.152.61"; // IP del servidor MySQL en GCP
 $username = "root"; // Usuario de MySQL
 $password = "123456"; // Contraseña de MySQL
 $database = "PERSONAL"; // Nombre de la base de datos
